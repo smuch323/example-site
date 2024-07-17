@@ -1,5 +1,5 @@
 # example-site
-This is soemthing that I definitely know how to do. 
+This is something that I definitely know how to do. 
 ## example of subheading
 more text more text more text akfadslfsdhasfljfadslkhadfl
 
