@@ -1,2 +1,5 @@
 title: Test site
 descritpion: a description with whatever words I can think of to write down. Probably Hitchhikers quotes. 
+remote_theme: pages-themes/cayman@v0.2.0
+plugins: 
+- jekyll-remote-theme
