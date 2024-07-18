@@ -15,3 +15,6 @@
 **bolding stuff**
 
 *making things italic* (insert song)
+
+
+{% include feature/image.html objectid="https://cdn.britannica.com/60/161960-050-42C5704A/Medea-painting-children-Eugene-Delacroix-French.jpg?w=300" caption="caption1" link="https://cdn.britannica.com/60/161960-050-42C5704A/Medea-painting-children-Eugene-Delacroix-French.jpg?w=300" alt="alt-text1" %}
